@@ -1,0 +1,21 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* Applies to <a> elements that have NOT been visited */
+a:link {  }
+
+/* Applies to <a> elements that HAVE been visited */
+a:visited { 
+    color: aqua;
+ }
+
+/* Applies to <a> elemeents that have focus. You can see 
+ * focus when you use the `tab` key to navigate a page
+ * Relevant to screenreaders */
+a:focus {  }
+
+/* Applies to <a> elements that are "activated" 
+ * (e.g., clicked by a user) */
+a:active { 
+    color: brown;
+ }

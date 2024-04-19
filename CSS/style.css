@@ -1,0 +1,56 @@
+h1 {
+    font-family: 'Helvetica';
+    color: white;
+    background-color: #333;
+}
+h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: goldenrod;
+    background-color: rgb(150, 22, 22);
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+section {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+p{
+    font-size: smaller;
+    font-weight: 200;
+}
+/* body {
+    background-color: rgb(131, 28, 226);
+} */
+button {
+    font-style: italic;
+    border-style: ridge;
+}
+td{
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    /* background-color: gold; */
+}
+th{
+    border: 1px soltd black;
+}
+table{
+    border-collapse: collapse;
+}
+.red_row{
+    background-color: red;
+}
+.blue_row{
+    background-color: blue;
+}
+.green_row{
+    background-color: green;
+}
+.purple_row{
+    background-color: purple;
+}
+.short{
+    height: 25px;
+}
